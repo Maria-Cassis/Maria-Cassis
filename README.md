@@ -1,6 +1,6 @@
 # Olá, eu sou Maria Clara! 🌸
 
-<img align="right" alt="PC GIF" src="[https://www.portaldodog.com.br/wp-content/uploads/2014/08/tumblr_n06l2mXy1T1scjbypo1_500.gif](https://i.pinimg.com/originals/19/25/0b/19250b478f7a9d0ae7fd103e1630e43e.gif)" width="200" />
+<img align="right" alt="PC GIF" src="https://i.pinimg.com/originals/19/25/0b/19250b478f7a9d0ae7fd103e1630e43e.gif" width="200" />
 
 🎓 **Estudante de Bacharelado em Ciência da Computação**, apaixonada por tecnologia e programação.  
 ☕ Atualmente, estou mergulhando no mundo do **Java** e explorando o que essa linguagem incrível pode fazer!  
